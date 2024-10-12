@@ -1,5 +1,5 @@
 //UNIT tesztek
-//Komment tovabb
+//Komment tovabb tovabb
 
 function trKeszito(tomb){
     var tr = document.createElement("tr");
